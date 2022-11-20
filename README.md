@@ -1,2 +1,2 @@
 # shrota-dev
-Shrota Language debelopment repository
+Shrota Language development repository
