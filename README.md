@@ -4,4 +4,4 @@ Shrota Language development repository
 shrota-lang repository has finalized the keys in
 the three bit integer system.
 Finalizing keys for the four bit integer system
-Will not be completed until stable version 0.4.8.
+will not be completed until stable version 0.4.8.
