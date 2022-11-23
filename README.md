@@ -22,3 +22,9 @@ beta versions are the standard for now and at least up until the release of shro
 - shrota-lang issue 1 closes
   - README.md needs to have contents copied and rendered into a Android studio resources file that makes sense. Possibly the values.xml file for now.
   - LICENSE file needs to have contents copied also. LICENSE file contents should contain note to be included in about page of Shrota app.
+
+
+![shrota_logo](https://user-images.githubusercontent.com/96601374/203567454-8ef7f8ec-af72-4e28-8d35-6097088c8567.png)
+
+
+
