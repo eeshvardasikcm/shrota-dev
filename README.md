@@ -17,4 +17,5 @@ beta versions are the standard for now and at least up until the release of shro
 - Graha 1.0.0 beta inside Shrota app
   - Graha project management module is essential part of shrota-dev
 - shrota-lang issue 1 closes
-  - README.md needs to have contents copied and rendered into a Android studio resources file that makes sense
+  - README.md needs to have contents copied and rendered into a Android studio resources file that makes sense. Possibly the values.xml file for now.
+  - LICENSE file needs to have contents copied also. LICENSE file contents should contain note to be included in about page of Shrota app.
