@@ -11,3 +11,4 @@ beta versions are the standard for now and at least up until the release of shro
 - Shrota icons in App for all resolutions.
 - Shrota splash page in Google Play Store for all resolutions.
 - Graha 1.0.0 beta inside Shrota app
+  - Graha project management module is essential part of shrota-dev
