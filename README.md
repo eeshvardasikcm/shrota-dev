@@ -8,6 +8,8 @@ will not be completed until stable version 0.4.8.
 ## Beta Versions of shrota-dev
 beta versions are the standard for now and at least up until the release of shrota-dev 0.4.8.
 ### shrota-dev 0.0.1
+- Eeshvar Das Graphics Standards
+  - Standards written into private repository
 - Shrota icons in App for all resolutions
   - Full HD image creation
   - Image converted to lower quality
