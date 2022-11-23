@@ -12,6 +12,7 @@ beta versions are the standard for now and at least up until the release of shro
   - Standards written into private repository
 - Shrota icons in App for all resolutions
   - Full HD image creation
+
   - Image converted to lower quality
   - Images added to Shrota app in Android Studio 
 - Shrota splash page in Google Play Store for all resolutions
