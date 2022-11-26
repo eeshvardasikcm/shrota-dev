@@ -12,7 +12,8 @@ beta versions are the standard for now and at least up until the release of shro
   - Standards written into private repository ✅
 - Shrota icons in App for all resolutions
   - design logo png ✅
-  - color pallette move to new HD Adobe project
+  - color pallette moved to shrota-dev ✅
+  - color pallette copied to new HD Adobe project
   - Full HD image creation
     - shapes and text outlined
     - colors painted
