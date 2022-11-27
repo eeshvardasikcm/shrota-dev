@@ -23,6 +23,9 @@ beta versions are the standard for now and at least up until the release of shro
   - Image resized and cropped as screenshots on Google Play Store for marketing purposes 
 - Graha 1.0.0 beta inside Shrota app
   - Graha project management module is essential part of shrota-dev
+- Sarartha Darshini PDF's storage
+  - Make reference location in shrota-dev
+  - Move PDF files closer to referenced location 
 - shrota-lang issue 1 closes
   - README.md needs to have contents copied and rendered into a Android studio resources file that makes sense. Possibly the values.xml file for now.
   - LICENSE file needs to have contents copied also. LICENSE file contents should contain note to be included in about page of Shrota app.
