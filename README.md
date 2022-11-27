@@ -20,7 +20,9 @@ beta versions are the standard for now and at least up until the release of shro
   - Image converted to lower quality
   - Images added to Shrota app in Android Studio 
 - Shrota splash page in Google Play Store for all resolutions
-  - Image resized and cropped as screenshots on Google Play Store for marketing purposes 
+  - Image resized and cropped as screenshots on Google Play Store for marketing purposes
+- Shrota app
+  - shrota-dev file system structure added to shrota-dev 0.0.1 ✅
 - Graha 1.0.0 beta inside Shrota app
   - Graha project management module is essential part of shrota-dev
 - Sandhya dynamic feature 
