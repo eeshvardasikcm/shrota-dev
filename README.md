@@ -29,7 +29,7 @@ beta versions are the standard for now and at least up until the release of shro
 - Sandhya dynamic feature 
   - Sarartha Darshini PDF's storage added to shrota-dev 0.0.1 ✅
   - Make reference location in shrota-dev
-  - Move PDF files closer to referenced location 
+  - Move Bhagavad Gita PDF files closer to referenced location ✅
 - shrota-lang issue 1 closes
   - README.md needs to have contents copied and rendered into a Android studio resources file that makes sense. Possibly the values.xml file for now.
   - LICENSE file needs to have contents copied also. LICENSE file contents should contain note to be included in about page of Shrota app.
