@@ -23,7 +23,8 @@ beta versions are the standard for now and at least up until the release of shro
   - Image resized and cropped as screenshots on Google Play Store for marketing purposes 
 - Graha 1.0.0 beta inside Shrota app
   - Graha project management module is essential part of shrota-dev
-- Sarartha Darshini PDF's storage
+- Sandhya dynamic feature 
+  - Sarartha Darshini PDF's storage added to shrota-dev 0.0.1 ✅
   - Make reference location in shrota-dev
   - Move PDF files closer to referenced location 
 - shrota-lang issue 1 closes
