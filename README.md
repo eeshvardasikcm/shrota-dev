@@ -23,6 +23,7 @@ beta versions are the standard for now and at least up until the release of shro
   - Image resized and cropped as screenshots on Google Play Store for marketing purposes
 - Shrota app
   - shrota-dev file system structure added to shrota-dev 0.0.1 ✅
+  - shrota-dev folder inside Shrota app project folder ✅
 - Graha 1.0.0 beta inside Shrota app
   - Graha project management module is essential part of shrota-dev
 - Sandhya dynamic feature 
