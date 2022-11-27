@@ -24,7 +24,8 @@ beta versions are the standard for now and at least up until the release of shro
 - Shrota app
   - shrota-dev file system structure added to shrota-dev 0.0.1 ✅
   - shrota-dev folder inside Shrota app project folder ✅
-  - Shrota app private eeshvardasikcm GitHub repository created and cloned 
+  - Shrota app private eeshvardasikcm GitHub repository created and cloned ✅
+  - merge downloaded GitHub repo with offline Shrota app project 
 - Graha 1.0.0 beta inside Shrota app
   - Graha project management module is essential part of shrota-dev
 - Sandhya dynamic feature 
