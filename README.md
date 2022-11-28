@@ -28,7 +28,7 @@ beta versions are the standard for now and at least up until the release of shro
   - merge downloaded GitHub repo with offline Shrota app project 
 - Graha 1.0.0 beta inside Shrota app
   - Graha project management module is essential part of shrota-dev
-- Sandhya dynamic feature 
+- Sadhana dynamic feature 
   - Sarartha Darshini PDF's storage added to shrota-dev 0.0.1 ✅
   - Make reference location in shrota-dev ✅
   - Move Bhagavad Gita PDF files closer to referenced location ✅
