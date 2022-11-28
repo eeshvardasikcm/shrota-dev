@@ -17,8 +17,6 @@ beta versions are the standard for now and at least up until the release of shro
   - Full HD image creation
     - shapes and text outlined
       - simple shapes and text outlined
-      - level 2 shapes and text outlined ❎
-      - level 3 shapes and text outlined ❎
     - colors painted 
   - Image converted to lower quality
   - Images added to Shrota app in Android Studio
@@ -47,9 +45,7 @@ beta versions are the standard for now and at least up until the release of shro
 - Shrota icons in App for all resolutions
   - Full HD image creation
     - shapes and text outlined
-      - simple shapes and text outlined ❎
       - level 2 shapes and text outlined 
-      - level 3 shapes and text outlined ❎
     - colors painted 
   - Image converted to lower quality
   - Images added to Shrota app in Android Studio
@@ -60,8 +56,6 @@ beta versions are the standard for now and at least up until the release of shro
 - Shrota icons in App for all resolutions
   - Full HD image creation
     - shapes and text outlined
-      - simple shapes and text outlined ❎
-      - level 2 shapes and text outlined ❎
       - level 3 shapes and text outlined 
     - colors painted 
   - Image converted to lower quality
