@@ -16,7 +16,10 @@ beta versions are the standard for now and at least up until the release of shro
   - color pallette copied to new HD Adobe project
   - Full HD image creation
     - shapes and text outlined
-    - colors painted
+      - simple shapes and text outlined
+      - level 2 shapes and text outlined 
+      - level 3 shapes and text outlined 
+    - colors painted for each level 
   - Image converted to lower quality
   - Images added to Shrota app in Android Studio 
 - Shrota splash page in Google Play Store for all resolutions
