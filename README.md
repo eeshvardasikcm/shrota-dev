@@ -43,4 +43,28 @@ beta versions are the standard for now and at least up until the release of shro
 ![shrota_logo](https://user-images.githubusercontent.com/96601374/203567454-8ef7f8ec-af72-4e28-8d35-6097088c8567.png)
 
 
+### shrota-dev 0.2.0
+- Shrota icons in App for all resolutions
+  - Full HD image creation
+    - shapes and text outlined
+      - simple shapes and text outlined ❎
+      - level 2 shapes and text outlined 
+      - level 3 shapes and text outlined ❎
+    - colors painted 
+  - Image converted to lower quality
+  - Images added to Shrota app in Android Studio
+- Shrota splash page in Google Play Store for all resolutions
+  - Image resized and cropped as screenshots on Google Play Store for marketing purposes
 
+### shrota-dev 0.3.0
+- Shrota icons in App for all resolutions
+  - Full HD image creation
+    - shapes and text outlined
+      - simple shapes and text outlined ❎
+      - level 2 shapes and text outlined ❎
+      - level 3 shapes and text outlined 
+    - colors painted 
+  - Image converted to lower quality
+  - Images added to Shrota app in Android Studio
+- Shrota splash page in Google Play Store for all resolutions
+  - Image resized and cropped as screenshots on Google Play Store for marketing purposes
