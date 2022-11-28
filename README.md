@@ -20,8 +20,8 @@ beta versions are the standard for now and at least up until the release of shro
       - level 2 shapes and text outlined 
       - level 3 shapes and text outlined 
     - colors painted for each level 
-  - Image converted to lower quality
-  - Images added to Shrota app in Android Studio 
+  - Image converted to lower quality for each level 
+  - Images added to Shrota app in Android Studio for each level 
 - Shrota splash page in Google Play Store for all resolutions
   - Image resized and cropped as screenshots on Google Play Store for marketing purposes
 - Shrota app
