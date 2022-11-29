@@ -8,7 +8,7 @@ will not be completed until stable version 0.4.8.
 ## Beta Versions of shrota-dev
 beta versions are the standard for now and at least up until the release of shrota-dev 0.4.8.
 ### shrota-dev 0.0.1
-- Eeshvar Das Graphics Standards
+- Eeshvar Das Graphics Standards ✅
   - Standards written into private repository ✅
 - Shrota icons in App for all resolutions
   - design logo png ✅
@@ -42,6 +42,8 @@ beta versions are the standard for now and at least up until the release of shro
 
 
 ### shrota-dev 0.2.1
+- Eeshvar Das Graphics Standards 
+  - Standards reviewed and edited 
 - Shrota icons in App for all resolutions
   - Full HD image creation
     - shapes and text outlined in new HD Adobe project 
@@ -53,7 +55,9 @@ beta versions are the standard for now and at least up until the release of shro
 - Shrota splash page in Google Play Store for all resolutions
   - Image resized and cropped as screenshots on Google Play Store for marketing purposes
 
-### shrota-dev 0.3.1
+### shrota-dev 0.3.1.
+- Eeshvar Das Graphics Standards 
+  - Standards reviewed and edited 
 - Shrota icons in App for all resolutions
   - Full HD image creation
     - shapes and text outlined
