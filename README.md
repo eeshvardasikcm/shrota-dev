@@ -41,10 +41,10 @@ beta versions are the standard for now and at least up until the release of shro
 ![shrota_logo](https://user-images.githubusercontent.com/96601374/203567454-8ef7f8ec-af72-4e28-8d35-6097088c8567.png)
 
 
-### shrota-dev 0.2.0
+### shrota-dev 0.2.1
 - Shrota icons in App for all resolutions
   - Full HD image creation
-    - shapes and text outlined
+    - shapes and text outlined in new HD Adobe project 
       - level 2 shapes and text outlined 
     - colors painted 
       - color pallette copied to new HD Adobe project
@@ -53,11 +53,11 @@ beta versions are the standard for now and at least up until the release of shro
 - Shrota splash page in Google Play Store for all resolutions
   - Image resized and cropped as screenshots on Google Play Store for marketing purposes
 
-### shrota-dev 0.3.0
+### shrota-dev 0.3.1
 - Shrota icons in App for all resolutions
   - Full HD image creation
     - shapes and text outlined
-      - level 3 shapes and text outlined 
+      - level 3 shapes and text outlined in new HD Adobe project 
     - colors painted 
       - color pallette copied to new HD Adobe project
   - Image converted to lower quality
