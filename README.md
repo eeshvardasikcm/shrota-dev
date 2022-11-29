@@ -20,8 +20,10 @@ beta versions are the standard for now and at least up until the release of shro
       - color pallette copied to new HD Adobe project
   - Image converted to lower quality
   - Images added to Shrota app in Android Studio
-- Shrota splash page in Google Play Store for all resolutions
-  - Image resized and cropped as screenshots on Google Play Store for marketing purposes
+- Shrota app in Google Play Store 
+  - Shrota splash page for all resolutions
+  - Image resized and cropped as screenshots for marketing purposes
+  - other changes to Shrota app in Google Play, necessary for beta release 
 - Shrota app
   - shrota-dev file system structure added to shrota-dev 0.0.1 ✅
   - shrota-dev folder inside Shrota app project folder ✅
@@ -52,8 +54,10 @@ beta versions are the standard for now and at least up until the release of shro
       - color pallette copied to new HD Adobe project
   - Image converted to lower quality
   - Images added to Shrota app in Android Studio
-- Shrota splash page in Google Play Store for all resolutions
-  - Image resized and cropped as screenshots on Google Play Store for marketing purposes
+- Shrota app in Google Play Store 
+  - Shrota splash page for all resolutions
+  - Image resized and cropped as screenshots for marketing purposes
+  - other changes to Shrota app in Google Play, necessary for beta release 
 
 ### shrota-dev 0.3.1.
 - Eeshvar Das Graphics Standards 
@@ -66,5 +70,7 @@ beta versions are the standard for now and at least up until the release of shro
       - color pallette copied to new HD Adobe project
   - Image converted to lower quality
   - Images added to Shrota app in Android Studio
-- Shrota splash page in Google Play Store for all resolutions
-  - Image resized and cropped as screenshots on Google Play Store for marketing purposes
+- Shrota app in Google Play Store 
+  - Shrota splash page for all resolutions
+  - Image resized and cropped as screenshots for marketing purposes
+  - other changes to Shrota app in Google Play, necessary for beta release 
