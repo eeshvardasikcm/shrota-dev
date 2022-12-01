@@ -1,4 +1,4 @@
-# Shrota Development <br/> Development repository for Shrota App
+# Shrota Development <br/> Development repository for Shrota App and `shrota-lang`
 
 <!--
 Copyright [2022] [Erik Douglas Ward (Eeshvar Das)]
