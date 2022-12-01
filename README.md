@@ -28,7 +28,8 @@ beta versions are the standard for now and at least up until the release of shro
   - shrota-dev file system structure added to shrota-dev 0.0.1 ✅
   - shrota-dev folder inside Shrota app project folder ✅
   - Shrota app private eeshvardasikcm GitHub repository created and cloned ✅
-  - merge downloaded GitHub repo with offline Shrota app project 
+  - merge downloaded private GitHub repo with offline Shrota app project ✅
+  - merge downloaded shrota-dev GitHub repo with offline Shrota app project
   - eeshvardasikcm/carbon-lang `issue_manage` contribution becomes part of shrota-dev
     - As is current design of Shrota app, a GCP Compute VM running Carbon is the architechture
       - `issue_manage` contribution to Carbon may potentially be used for various purposes
