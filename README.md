@@ -1,5 +1,30 @@
-# shrota-dev
-Shrota Language development repository
+# Shrota Development <br/> Development repository for Shrota App
+
+<!--
+Copyright [2022] [Erik Douglas Ward (Eeshvar Das)]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+
+<p align="center">
+  <a href="#why-develop-shrota">Why?</a> |
+  <a href="#development-goals">Goals</a> |
+  <a href="#project-status">Status</a> |
+  <a href="#getting-started">Getting started</a> |
+  <a href="#join-me">Join me</a>
+</p>
+
+Shrota Language development repository (`shrota-dev`)
 ## Stable release targets shrota-dev 0.4.8
 shrota-lang repository has finalized the keys in
 the three bit integer system.
