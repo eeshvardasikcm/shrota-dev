@@ -30,14 +30,14 @@ beta versions are the standard for now and at least up until the release of shro
   - Shrota app private eeshvardasikcm GitHub repository created and cloned ✅
   - merge downloaded private GitHub repo with offline Shrota app project ✅
   - merge downloaded shrota-dev GitHub repo with offline Shrota app project ✅
-  - eeshvardasikcm/carbon-lang `issue_manage` contribution becomes part of shrota-dev
-    - merge downloaded eeshvardasikcm/carbon-lang `issue-manage` branch with offline Shrota app project
+  - eeshvardasikcm/carbon-lang `issue_manage` contribution is now part of shrota-dev ✅
+    - merge downloaded eeshvardasikcm/carbon-lang `issue-manage` branch with offline Shrota app project ✅
     - As is current design of Shrota app, a GCP Compute VM running Carbon is the architechture ✅
       - `issue_manage` contribution to Carbon may potentially be used for various purposes ✅
       - `issue_manage` will be integrated into Shrota to handle Shrotas Firebase integration on Debian ✅
       - Basic Carbon functionality should be sufficient to enable `issue_manage` to handle the needed Debian 'shell scripting' ✅
-    - Carbon `issue_manage` achieves basic operational success on Debian.
-    - Carbon `issue_manage` increases relevancy and Carbon contributor compliance
+  - Carbon `issue_manage` achieves basic operational success on Debian.
+  - Carbon `issue_manage` increases relevancy and Carbon contributor compliance
 - Graha 1.0.0 beta inside Shrota app
   - Graha project management module is essential part of shrota-dev
 - Sadhana dynamic feature 
