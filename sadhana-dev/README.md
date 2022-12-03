@@ -7,7 +7,7 @@ Texts 27-29 of Chapter 5 summarize the Sankhya Yoga and Dhyana Yoga processes of
 PureBhakti.com has the full Bhagavad Gita for download in PDF format.
 ## Productivity Free From Desire, Fear and Anger
 _vigatecchā-bhaya-krodho_ ।। 
-Having put the mind into Sankhya Yoga and Dhyana Yoga meditations,
+Having put the mind into Sankhya Yoga and Dhyana Yoga meditation,
 fears and angers originating from material desirs are mitigated.
 With _adhibautika_ awareness,
 we may work in _karma-mishra-bhakti-yoga_ with consistent health,
