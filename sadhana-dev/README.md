@@ -5,3 +5,11 @@ Read chapter 6 of Bhagavad Gita before and after doing Sandhya mantras.
 Chapter 6 can be preceeded by reading final three texts from Chapter 5.
 Texts 27-29 of Chapter 5 summarize the Sankhya Yoga and Dhyana Yoga processes of Bhakti Yoga.
 PureBhakti.com has the full Bhagavad Gita for download in PDF format.
+## Productivity Free From Desire, Fear and Anger
+_vigatecchā-bhaya-krodho_ ।। 
+Having out the mind into Sankhya Yoga and Dhyana Yoga meditations,
+fear and anger origonating from material desire are mitigated.
+With _adhibautika_ awareness,
+we may work in _karma-mishra-bhakti-yoga_ with consistent health,
+steady productivity,
+and ultimate goal of _moksha_ constantly within view.
