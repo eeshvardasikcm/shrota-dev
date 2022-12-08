@@ -61,8 +61,8 @@ beta versions are the standard for now and at least up until the release of shro
       - `issue_manage` contribution to Carbon may potentially be used for various purposes ✅
       - `issue_manage` will be integrated into Shrota to handle Shrotas Firebase integration on Debian ✅
       - Basic Carbon functionality should be sufficient to enable `issue_manage` to handle the needed Debian 'shell scripting' ✅
-  - Carbon `issue_manage` achieves basic operational success on Debian.
-  - Carbon `issue_manage` increases relevancy and Carbon contributor compliance
+  - Carbon `GCP Firebase Integration` achieves basic operational success on Debian.
+  - Carbon markdown style and design matrix/outline files increase relevancy and Carbon contributor compliance
 - Graha 1.0.0 beta inside Shrota app
   - Graha project management module is essential part of shrota-dev
 - Sadhana dynamic feature 
