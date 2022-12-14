@@ -67,7 +67,7 @@ beta versions are the standard for now and at least up until the release of shro
   - Image resized and cropped as screenshots for marketing purposes
   - other changes to Shrota app in Google Play, necessary for beta release 
 
-### shrota-dev 0.3.1.
+### shrota-dev 0.3.1
 - Eeshvar Das Graphics Standards 
   - Standards reviewed and edited 
 - Shrota icons in App for all resolutions
