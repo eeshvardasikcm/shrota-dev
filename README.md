@@ -49,7 +49,7 @@ beta versions are the standard for now and at least up until the release of shro
   - Shrota splash page for all resolutions
   - Image resized and cropped as screenshots for marketing purposes
   - other changes to Shrota app in Google Play, necessary for beta release 
-- Shrota app
+- Shrota app ✅
   - shrota-dev file system structure added to shrota-dev 0.0.1 ✅
   - shrota-dev folder inside Shrota app project folder ✅
   - Shrota app private eeshvardasikcm GitHub repository created and cloned ✅
@@ -63,7 +63,7 @@ beta versions are the standard for now and at least up until the release of shro
       - Basic Carbon functionality should be sufficient to enable `issue_manage` to handle the needed Debian 'shell scripting' ✅
   - Carbon `issue_manage` achieves basic operational success on Debian. ✅
     - Carbon `issue_manage` successfully rendered into the new evolution of `gameslib` ✅
-  - Carbon `issue_manage` increases relevancy and Carbon contributor compliance
+  - Carbon `issue_manage` increases relevancy and Carbon contributor compliance ✅
     - Carbon Project community contributor life proceeds with managing Carbon Project issues well ✅
     - Carbon `issue manage` now charted to be rendered into a design and style duality markdown matrix ✅
       - The duality between ✅
@@ -74,7 +74,7 @@ beta versions are the standard for now and at least up until the release of shro
         - potential to continue thriving as a C++ developer ✅
         - potential to evolve as a modern code developer ✅
         - proven formula that Carbon Project is designed around ✅
-  - gameslib
+  - gameslib roadmap ✅
     - The new eeshvardasikcm/gameslib is now a public repository evolution of Shrota app development ✅
       - Carbon Project currently has Eeshvar Das ✅
         - writing C++ code once again after a long reprieve ✅
