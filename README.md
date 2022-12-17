@@ -61,12 +61,33 @@ beta versions are the standard for now and at least up until the release of shro
       - `issue_manage` contribution to Carbon may potentially be used for various purposes ✅
       - `issue_manage` will be integrated into Shrota to handle Shrotas Firebase integration on Debian ✅
       - Basic Carbon functionality should be sufficient to enable `issue_manage` to handle the needed Debian 'shell scripting' ✅
-  - Carbon `issue_manage` achieves basic operational success on Debian.
+  - Carbon `issue_manage` achieves basic operational success on Debian. ✅
+    - Carbon `issue_manage` successfully rendered into the new evolution of `gameslib` ✅
   - Carbon `issue_manage` increases relevancy and Carbon contributor compliance
+    - Carbon Project community contributor life proceeds with managing Carbon Project issues well ✅
+    - Carbon `issue manage` now charted to be rendered into a design and style duality markdown matrix ✅
+      - The duality between ✅
+        - My understanding and realization as a new Carbon Project contributor ✅
+        - True to life Carbon Project design and style as they currently are headlined ✅
+      - The future that code developers have yet to recognize as the ✅
+        - potential to thrive as a Carbon community contributor ✅
+        - potential to continue thriving as a C++ developer ✅
+        - potential to evolve as a modern code developer ✅
+        - proven formula that Carbon Project is designed around ✅
+  - gameslib
+    - The new eeshvardasikcm/gameslib is now a public repository evolution of Shrota app development ✅
+      - Carbon Project currently has Eeshvar Das ✅
+        - writing C++ code once again after a long reprieve ✅
+        - realizing that there is an industry wide gap opening and expanding the divide between modern code languages, Rust, and C++ ✅
+        - getting acquainted with a future using Google Test library, `gunit` ✅
+      - Carbon Project is allowing Eeshvar Das ✅
+        - to continue with his current architectural, design and style ✅
+        - continue to be impressed with learning the way Google has achieved sustainability leadership in the technology industry ✅ 
+        - a path to look for work while building a resume as a Carbon Project community contributor ✅
 - Graha 1.0.0 beta inside Shrota app
   - Graha project management module is essential part of shrota-dev
 - Sadhana dynamic feature 
-  - Sarartha Darshini PDF's storage added to shrota-dev 0.0.1 ✅
+  - Chakravarti Thakur Tika PDF's storage added to shrota-dev 0.0.1 ✅
   - Make reference location in shrota-dev ✅
   - Move Bhagavad Gita PDF files closer to referenced location ✅
 - shrota-lang issue 1 closes
