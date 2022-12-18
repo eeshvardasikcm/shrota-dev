@@ -1,0 +1,15 @@
+// Part of the Carbon Language project, under the Apache License v2.0 with LLVM
+// Exceptions. See /LICENSE for license information.
+// SPDX-License-Identifier: Apache-2.0 WITH LLVM-exception
+//
+// issue_manage is designed to become completely compliant
+// with carbon-lang and Carbon.
+// This LICENSE will be changing to increasingly comply
+// with carbon-lang and Carbon.
+//
+// does not appear to work directly with Carbon language project
+// after comments received form Carbon leads. Possibly need to
+// change licensing to apache soon, and then move into private
+// shrota app repository, followed by changing licensing again
+// to copyrighted and all rights reserved with attributions
+// given to Carbon language project.
