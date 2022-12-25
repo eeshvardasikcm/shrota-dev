@@ -109,6 +109,12 @@ beta versions are the standard for now and at least up until the release of shro
 ### shrota-dev 0.0.4 (30-45 days after release of shrota-dev 0.0.1)
 - Graha app transition into `grahalib` module is now completed and active within `shrota-dev`
 
+### shrota-dev 0.1.5 (10-15 days after release of shrota-dev 0.1.4)
+- Google Health Connect SDK added to Shrota app (minimal background install)
+#### Google Health Connect
+Google Health Connect will allow Shrota app to acquire health diagnostics from the Shrota app user.
+These health diagnostics may be used as a lower priority indicator that will support the primary Ayurvedic indicators of Shrota app.
+
 ### shrota-dev 0.2.1 (~Fall 2023)
 - Eeshvar Das Graphics Standards 
   - Standards reviewed and edited 
