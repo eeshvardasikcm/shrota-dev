@@ -93,7 +93,17 @@ beta versions are the standard for now and at least up until the release of shro
 - shrota-lang issue 1 closes
   - README.md needs to have contents copied and rendered into a Android studio resources file that makes sense. Possibly the values.xml file for now.
   - LICENSE file needs to have contents copied also. LICENSE file contents should contain note to be included in about page of Shrota app.
-
+- new notes added from mobile device. needs to be organized.
+  - The amount of text in the upcoming Shrota app, is a combination of text from the Vitae app, the Graha app, and the Shrota Considerate app
+  - The text doesn't fit on one screen.
+  - Do the Compose tutorial on navigation.
+  - Page from one screen to another depending on what button is pressed.
+  - Change the design of Shrota app to reflect what is the concept in mind.
+  - Shrota app should start at the first part of the day with a bathroom strategy containing pinks and purples
+  - The buttons will allow the user to acknowledge completion of a task or give a reason task is not able to be completed.
+  - completed tasks become logged into firebase.
+  - Versioning this progression of page navigation from one version to the next gradually to fit in with the current plans of finishing a 0.0.1 version as quickly as possible.
+  - Shrota printouts that I have been referencing will be entered into Shrota app. Probably as a well labeled series of Strings in the strings.xml values resource.
 
 ![shrota_logo](https://user-images.githubusercontent.com/96601374/203567454-8ef7f8ec-af72-4e28-8d35-6097088c8567.png)
 
